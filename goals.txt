@@ -8,3 +8,5 @@
 8. Belajar Laravel
 9. Belajar ReactJS
 10.Belajar NextJS
+11.Buat Projek Sederhana
+12.Cari Relasi 
