@@ -1,0 +1,10 @@
+1. Belajar Html 
+2. Belajar Css
+3. Belajar Javascript
+4. Belajar Bootsrtap
+5. Belajar Tailwindcss
+6. Belajar AlpineJS
+7. Belajar Php
+8. Belajar Laravel
+9. Belajar ReactJS
+10.Belajar NextJS
