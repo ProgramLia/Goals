@@ -1,9 +1,10 @@
--- Pilihan Framework --
+-- Pilihan Framework & Library --
 
 1. Framework & Library Javascript
     - React JS
     - Vue JS
-    - Swijer JS
+    - Angular
+    - Next JS
 
 2. Framework & Library PHP
     - Code Igniter
