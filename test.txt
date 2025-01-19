@@ -1,6 +1,9 @@
 Framework Javascript
   - React JS
   - Vue JS
+  - Angular
+  - Next JS
+
 Framework PHP
   - Code Igniter
   - Laravel
