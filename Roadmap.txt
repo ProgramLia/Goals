@@ -1,0 +1,10 @@
+-- Alur Belajar Web Depelover --
+
+-- Frontend --
+1. HTML
+2. CSS
+3. Javascript (Bagian Frontend)
+
+-- Backend --
+1. PHP
+2. Javascript (Bagian Backend)
