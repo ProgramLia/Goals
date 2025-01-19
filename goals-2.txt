@@ -1,9 +1,0 @@
-Rencana belajara lain 
-1. Belajar tentang mobile dpelovment
-  - Apa itu Mobile device
-  - Apa Bahasa yang Sesuai 
-  - Jalur Belajarnya
-2. Belajar Dart Dasar
-  - Dasar Dart
-  - Dasar tentang Variabel Dart
-  - Belajar tentang looping
