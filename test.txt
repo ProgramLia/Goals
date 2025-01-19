@@ -1,6 +1,11 @@
-Framework Javascript
-  - React JS
-  - Vue JS
-Framework PHP
-  - Code Igniter
-  - Laravel
+-- Pilihan Framework & Library --
+
+1. Framework & Library Javascript
+    - React JS
+    - Vue JS
+    - Angular
+    - Next JS
+
+2. Framework & Library PHP
+    - Code Igniter
+    - Laravel
