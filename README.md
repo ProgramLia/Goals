@@ -1,5 +1,5 @@
 # Goals
-(File ini untuk belajar github)
+(File ini untuk belajar github tutorial dari Web Programing UNPAS)
 
 1. Belajar Dasar Web Depelover
    - Frontend
