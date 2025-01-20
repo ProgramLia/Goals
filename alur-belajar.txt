@@ -8,3 +8,50 @@
 -- Backend --
 1. PHP
 2. Javascript (Bagian Backend)
+
+-- Database --
+1. MYSQl
+
+-- HTML --
+# Belajar definisi HTML dan apa fungsinya
+1. Belajar Tag Penting ( p , H1-H6 , b , i , img , div , dsb...)
+2. Belajar Properti dari HTML ( class , Id , dsb...)
+3. Belajar Semantik HTML ( header , aside , nav , article , footer , main , dsb...)
+
+-- CSS --
+# Belajar definisi Css dan apa fungsinya
+1. Belajar membuat file css terpisah , inline scc dsb...
+2. Belajar properti Css ( color  , padding , margin , dsb...)
+3. Belajar psuedo class
+4. Belajar position
+5. Belajar animation dan transition
+6. Belajar responsive
+
+-- JAVASCRIPR --
+# Belajar definisi dan fungsi javascript
+1. Belajar Variable ( let , var , const , dsb..)
+2. Belajar type data (integer , string , boolean , null , NaN , undifined , dsb...)
+3. Belajar Array & Object (literal)
+4. Belajar Looping ( For , while , do while, dsb...)
+6. Belajar function ( declaration , expretion  , arrow , high order function , dsb...)
+7. Belajar Class dan Object (lanjutan)
+8. Belajar Menggunakan popup dan funsi bawaan javascript
+9. Belajar DOM
+10 Belajar event bubbling
+
+-- PHP --
+# Belajar definisi dan fungsi PHP
+1. Belajar cara menggunakan (xampp , laragon , dsb...)
+2. Belajar variable
+3. Belajar type data
+4. Belajar array ( asosiatif arrat dan array numweric)
+5. Belajar object
+6. Belajar function
+7. Belajar OOP
+
+-- MYSQL --
+# Belajar definisi dan fungsi MYSQL
+1. Belajar syntax / query SQL
+2. Belajar menggunakan phpmyadmin 
+3. Belajar cara CRUD (dalam phpmyadmin)
+4. Belajar cara CRUD di file project PHP
